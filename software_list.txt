@@ -1,0 +1,10 @@
+entrez-direct
+sra-tools
+parallel
+seqkit
+fastqc
+multiqc
+r-base
+r-dada2
+vsearch
+cutadapt 
