@@ -1,0 +1,184 @@
+id	General_phylogeny	Common_name	Family	Genus	Species	Notes	Sequencing_Type	Paper	Accession	Multi_species_accession	is.subset	primerset
+102M_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+10_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+10_Sopo_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+11_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+122_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+12_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+12_Makumba_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+13_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+14_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+157_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+15_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+16Susa_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+16_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+17_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+17_Mayele_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+18Lungu_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+18_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+19_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+1_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+1_Mata_1_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+20_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+20_Lungu_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+21Mapoki_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+21_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+22_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+22_Susa_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+23Mongali7516_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+23_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+249M_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+24_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+24_Mongali_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+251M_011	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+253M_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+25_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+25_Mayele_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+28Wiya_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+29_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+2_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+30_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+30_Duma_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+31_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+33_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+35_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+3_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+3_Mama_ti_mio_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+46_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+4_Mio_1_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+5Malui_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+5_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+61_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+68_011	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+6_samba_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+77_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+7_Tembo_009	Ape	gorilla	Hominidae	gorilla	gorilla gorilla	mann 2020 and gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+87M_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+8_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+B1_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+B2_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+B3_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+B4_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+ERR4352182	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352183	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352184	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352185	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352186	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352187	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352188	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352189	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352190	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352191	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352196	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+ERR4352197	Lemur	indri	Indriidae	indri	indri indri	NA	ITS2	Borruso2021	PRJEB39443	FALSE	FALSE	ITS3:ITS4
+H10_E05_010	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H1_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H2_010	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H33_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H34_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H35_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H37_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H38_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H39_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H40_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H41_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H42_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H43_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H44_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H45_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H47_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H48_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H49_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H4_010	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H509_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H51_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H54_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H55_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H56_009	Ape	human	Hominidae	homo	homo sapiens	gomez and truter 2024	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+H6_010	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K1_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K2_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K3_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K4_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K5_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K6_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+K8_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M157_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M158_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M159_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M160_010	Ape	chimpanzee	Hominidae	pan	pan troglodytes schweinfurthii	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M1_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M255_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M2_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M3_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M45_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M49_010	Old_World	agile mangabey	Cercopithecidae	cercocebus	cercocebus agilis	gomez	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M4_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+M5_009	Ape	gorilla	Hominidae	gorilla	gorilla beringei	NA	ITS2	sharma2022	PRJNA686661	TRUE	NA	ITS3:ITS4
+MA_1B_B_1_10_40B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_11_41B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_12_42B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_13_43B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_14_44B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_15_45B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_16_46B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_17_47B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_18_48B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_19_49B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_1_31B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_21_51B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_22_52B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_23_53B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_25_55B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_2_32B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_5_35B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_6_36B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_8_38B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1B_B_1_9_39B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1_R_1_1_1	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1_R_1_3_3	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1_R_1_5_5	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_1_R_1_6_6	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_10_66B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_11_67B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_12_68B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_1_57B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_2_58B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_3_59B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_4_60B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_7_63B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_8_64B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2B_B_2_9_65B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2_R_2_3_10	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2_R_2_4_11	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2_R_2_7_14	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_2_R_2_8_15	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_1_16	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_2_17	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_5_20	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_6_21	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_7_22	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_3_R_3_8_23	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_4_R_4_6_30	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_5_R_5_1_34	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_5_R_5_3_36	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_5_R_5_8_41	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_6_R_6_1_42	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_6_R_6_3_44	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_6_R_6_4_45	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_6_R_6_5_46	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MA_6_R_6_8_49	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1B_B_1_10_10B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1B_B_1_3_3B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1B_B_1_4_4B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1B_B_1_5_5B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1_R_1_5_54	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1_R_1_6_55	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_1_R_1_7_56	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_2B_B_2_10_20B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_2B_B_2_1_11B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_2B_B_2_2_12B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_2B_B_2_3_13B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_3B_B_3_3_23B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_3B_B_3_6_26B	Old_World	baboon	Cercopithecidae	papio	papio cynocephalus	in two papers with the same samples	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
+MW_4_R_4_8_81	Old_World	olive colobus	Cercopithecidae	procolobus	procolobus gordonorum	NA	ITS2	Barelli2020	PRJEB37770	TRUE	TRUE	ITS3:ITS4
