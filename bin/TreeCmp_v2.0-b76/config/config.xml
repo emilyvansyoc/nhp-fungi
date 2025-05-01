@@ -1,0 +1,273 @@
+﻿<?xml version = "1.0" ?>
+<config>
+    <defined_metrics>
+        <!-- unrooted metrics -->
+        <metric> 
+            <name>MatchingSplit</name>
+            <command_name>ms</command_name>
+            <class>treecmp.metric.MatchingSplitMetric</class>
+            <description>-Matching Split metric</description>
+            <unif_data>unif_MS.txt</unif_data>
+            <yule_data>yule_MS.txt</yule_data>
+            <aln_file_suffix>.aln_MS.txt</aln_file_suffix>
+            <fullname>Matching Split distance</fullname>
+            <complexity>|L|^2.5*log|L|</complexity>
+            <authors>Bogdanowicz and Giaro</authors>             
+            <publication>Matching split distance for unrooted binary phylogenetic trees</publication>
+            <year>2012</year>         
+            <full_description>Matching Split distance is based on comparing splits in two trees. A split A|B of a set L is an unordered pair (ie, A|B = B|A) of its subsets, such that L = A∪B and A∩B = ∅. To compare splits in two trees, MS finds a minimum-weight perfect matching in bipartite graphs whose vertices correspond to splits in these two trees and edges connect each split from one tree to a split in another tree. If the number of splits in the trees differs, the smaller set is extended by the missing number of "dummy" elements.</full_description>
+        </metric>
+        <metric>
+            <name>UMAST</name>
+            <command_name>um</command_name>
+            <class>treecmp.metric.UmastMetric</class>
+            <description>-Unrooted Maximum Agreement Subtree distance</description>
+            <unif_data>unif_UM.txt</unif_data>
+            <yule_data>yule_UM.txt</yule_data>
+            <fullname>Unrooted Maximum Agreement Subtree distance</fullname>
+            <complexity>|L|^(2+o(1))</complexity>
+            <authors>Farach and Thorup</authors>             
+            <publication>Fast comparison of evolutionary trees</publication>
+            <year>1994</year>
+            <full_description>Given a set of species L and two unrooted trees leaves uniquely labeled by the items of L, Unrooted Maximum Agreement Subtree distance is the difference between cardinality of L and cardinality of the largest subset A of L such that the subtrees of compared trees induced by A are isomorphic</full_description>
+        </metric>
+        <metric>
+            <name>PathDiffernce</name>
+            <command_name>pd</command_name>
+            <class>treecmp.metric.NodalL2Metric</class>
+            <description>-Path Difference metric</description>
+            <unif_data>unif_PD.txt</unif_data>
+            <yule_data>yule_PD.txt</yule_data>
+            <fullname>Path difference distance</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Steel and Penny</authors>             
+            <publication>Distributions of tree comparison metrics — Some new results</publication>
+            <year>1993</year>         
+            <full_description>Path difference distance is the square root of the sum of squares of the differences in the distance between individual pairs of leaves in the compared trees.</full_description>
+        </metric>
+        <metric>
+            <name>Quartet</name>
+            <command_name>qt</command_name>
+            <class>treecmp.metric.QuartetMetricLong</class>
+            <description>-Quartet metric</description>
+            <unif_data>unif_QT.txt</unif_data>
+            <yule_data>yule_QT.txt</yule_data>
+            <fullname>Quartet distance</fullname>
+            <complexity>|L|^3</complexity>
+            <authors>Estabrook, McMorris and Meacham</authors>          
+            <publication>Comparison of undirected phylogenetic trees based on subtrees of four evolutionary units</publication>
+            <year>1985</year>
+            <full_description>The Quartet distance is based on comparing sets of quartets induced by two trees. A set of quartets induced by an unrooted tree is the set of the topologies of all 4-species subsets of its leaves consistent with its topology. Quartet distance between two trees is the number of different quartets in two respective sets.</full_description>
+        </metric>
+        <metric>
+            <name>RF(0.5)</name>
+            <command_name>rf</command_name>
+            <class>treecmp.metric.RFMetric</class>
+            <description>-Robinson-Foulds metric</description>
+            <unif_data>unif_RF.txt</unif_data>
+            <yule_data>yule_RF.txt</yule_data>
+            <fullname>Robinson-Foulds distance</fullname>
+            <complexity>|L|</complexity>
+            <authors>Robinson and Foulds</authors>             
+            <publication>Comparison of phylogenetic trees</publication>
+            <year>1981</year>        
+            <full_description>The Robinson-Foulds distance is one of the most commonly used methods to measure the dissimilarity of phylogenetic trees. This metric is equal to the number of different splits in compared trees (divided by 2). A split A|B of a set L is an unordered pair (ie, A|B = B|A) of its subsets, such that L = A∪B and A∩B = ∅.</full_description>
+        </metric>
+        <!-- weighted unrooted metric -->
+        <metric>
+            <name>RFWeighted(0.5)</name>
+            <command_name>rfw</command_name>
+            <class>treecmp.metric.weighted.RFWeightMetric</class>
+            <description>-weighted Robinsin Foulds metric</description>
+            <weighted>true</weighted>
+            <fullname>Weighted Robinsin Foulds distance</fullname>
+            <complexity>|L|</complexity>
+            <authors>Robinson and Foulds</authors>
+            <publication>Comparison of weighted labelled trees</publication>
+            <year>1979</year>
+            <full_description>The weighted RF metric adds the length of the edges to the RF metric. By identifying split with an edge, it sums the difference of weights of split edges present in the two trees and weights of diffrent split edges. (divided by 2). A split A|B of a set L is an unordered pair (ie, A|B = B|A) of its subsets, such that L = A∪B and A∩B = ∅.</full_description>
+        </metric>
+        <metric>
+            <name>GeoUnrooted</name>
+            <command_name>gdu</command_name>
+            <class>treecmp.metric.weighted.GeoUnrootedMetric</class>
+            <description>-Geodesic Unrooted metric</description>
+            <weighted>true</weighted>
+            <fullname>Geodesic Unrooted distance</fullname>
+            <complexity>A Fast Algorithm for Computing Geodesic Distances in Tree Space.</complexity>
+            <authors>Owen and Provan</authors>
+            <publication>|L|^4</publication>
+            <year>2009</year>
+            <full_description>Metric is based on concept of a continuous tree space consists of a set of Euclidean regions, called orthants, one for each tree topology. Orthants are joined together whenever one tree topology can be made into another by exchanging edges between the trees. Within an orthant, the coordinates of each point represent the edge lengths for a particular tree with the topology associated with that orthant. The geodesic between two trees is the unique shortest path connecting the two associated points in this space. Thus traversing the geodesic corresponds to continuously transforming one tree into the other.</full_description>
+        </metric>
+        <!-- rooted metrics -->
+        <metric> 
+            <name>MatchingPair</name>
+            <command_name>mp</command_name>
+            <class>treecmp.metric.MatchingPairMetric</class>
+            <description>-Matching Pair metric</description>
+            <unif_data>unif_MP.txt</unif_data>
+            <yule_data>yule_MP.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Matching Pair metric</fullname>
+            <complexity>|L|^2.5*log|L|</complexity>
+            <authors>Bogdanowicz and Giaro</authors>             
+            <publication>Comparing phylogenetic trees by matching nodes using the transfer distance between partitions</publication>
+            <year>2017</year>
+            <full_description>The Matching Pair metric uses the concept of the minimum-weight perfect matching in a complete bipartite graph constructed from partitions of all pairs of leaves of the compared phylogenetic trees. This metric becomes the transfer distance between partitions of the set of unordered leaf pairs determined by compared trees.</full_description>
+        </metric>
+        <metric>
+            <name>MatchingCluster</name>
+            <command_name>mc</command_name>
+            <class>treecmp.metric.MatchingClusterMetric</class>
+            <description>-Matching Cluster metric</description>
+            <unif_data>unif_MC.txt</unif_data>
+            <yule_data>yule_MC.txt</yule_data>
+            <aln_file_suffix>.aln_MC.txt</aln_file_suffix>
+            <rooted>true</rooted>
+            <fullname>Matching Cluster metric</fullname>
+            <complexity>|L|^2.5*log|L|</complexity>
+            <authors>Bogdanowicz and Giaro</authors>             
+            <publication>On a matching distance between rooted phylogenetic trees</publication>
+            <year>2013</year>
+            <full_description>Matching Cluster metric is based on comparing clusters in two trees. A cluster associated with a vertex v in a rooted tree T with leaves L is a subset of leaves that are descendants of v. To measure the dissimilarity between clusters, MC uses function hC(A, B) = |A⊕B|.  If the number of clusters in the trees differs, the smaller set is extended by the missing number of "dummy" elements.</full_description>
+        </metric>
+        <metric>
+            <name>CopheneticL2Metric</name>
+            <command_name>co</command_name>
+            <class>treecmp.metric.CopheneticL2Metric</class>
+            <description>-Cophenetic Metric with L2 norm</description>
+            <unif_data>unif_CO.txt</unif_data>
+            <yule_data>yule_CO.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Cophenetic Metric with L2 norm</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Cardona, Mir, Rosselló, Rotger and Sánchez</authors>
+            <publication>Cophenetic metrics for phylogenetic trees, after Sokal and Rohlf</publication>
+            <year>2013</year>
+            <full_description>For every rooted phylogenetic tree T, let its cophenetic vector φ(T) consist of all pairs of cophenetic values (depth of lowest common ancestor of a pair of nodes) between pairs of taxa in T and all depths of taxa in T. Cophenetic Metric comparing cophenetic vectors φ(T) of two trees by means of L2 norm distance.</full_description>
+        </metric>
+        <metric>
+            <name>NodalSplitted</name>
+            <command_name>ns</command_name>
+            <class>treecmp.metric.NodalL2SplittedMetric</class>
+            <description>-Nodal Splitted metric</description>
+            <unif_data>unif_NS.txt</unif_data>
+            <yule_data>yule_NS.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Nodal Splitted metric with L2 norm</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Cardona, Llabres, Rossello and Valiente</authors>             
+            <publication>Nodal distances for rooted phylogenetic trees</publication>
+            <year>2010</year>
+            <full_description>Nodal Splitted metric is L2 norm of two splitted path lengths matrices with rows and columns indexed by taxa and where every entry is the distance from the least common ancestor of the pair of nodes.</full_description>
+        </metric>
+        <metric>
+            <name>Triples</name>
+            <command_name>tt</command_name>
+            <class>treecmp.metric.TripletMetric</class>
+            <description>-Triplet metric </description>
+            <unif_data>unif_TT.txt</unif_data>
+            <yule_data>yule_TT.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Triples metric</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Critchlow, Pearl and Qian</authors>           
+            <publication>Triples Distance for rooted bifurcating phylogenetic trees</publication>
+            <year>1996</year>
+            <full_description>The Triples metric is based on comparing sets of triples induced by two trees. A set of triples induced by a rooted tree is a set of the topologies of all 3-species rooted subtrees consistent with this tree. Triplets distance between two trees is the number of different triples in the respective sets.</full_description>
+        </metric>
+        <metric>
+            <name>MAST</name>
+            <command_name>mt</command_name>
+            <class>treecmp.metric.RMASTMetric</class>
+            <description>-Maximum Agreement Subtree distance</description>
+            <unif_data>unif_MT.txt</unif_data>
+            <yule_data>yule_MT.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Rooted Maximum Agreement Subtree distance</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Farach and Thorup</authors>             
+            <publication>Fast comparison of evolutionary trees</publication>
+            <year>1994</year>
+            <full_description>Given a set L of n species and two rooted trees leaves uniquely labeled by the items of L, Maximum Agreement Subtree distance is the difference between cardinality of L and cardinality of the largest subset B of L such that the subtrees of compared trees induced by B are isomorphic</full_description>
+        </metric>
+        <metric>
+            <name>RFCluster(0.5)</name>
+            <command_name>rc</command_name>
+            <class>treecmp.metric.RFClusterMetric</class>
+            <description>-Robinson-Foulds Cluster metric</description>
+            <unif_data>unif_RC.txt</unif_data>
+            <yule_data>yule_RC.txt</yule_data>
+            <rooted>true</rooted>
+            <fullname>Robinson-Foulds metric based on clusters</fullname>
+            <complexity>|L|</complexity>
+            <authors>Robinson and Foulds</authors>             
+            <publication>Comparison of phylogenetic trees</publication>
+            <year>1981</year>        
+            <full_description>The Robinson-Foulds Cluster distance is one of the most commonly used methods to measure the dissimilarity of phylogenetic trees. This metric is equal to the number of different clusters in compared trees (divided by 2). A cluster associated with a vertex v in a rooted tree T with leaves L is a subset of leaves that are descendants of v.</full_description>
+        </metric>
+        <!-- weighted rooted metric -->
+        <metric>
+            <name>RFClusterWeighted(0.5)</name>
+            <command_name>rcw</command_name>
+            <class>treecmp.metric.weighted.RFCWeightMetric</class>
+            <description>-Weighted Robinsin Foulds Cluster metric</description>
+            <rooted>true</rooted>
+            <weighted>true</weighted>
+            <fullname>Weighted Robinsin Foulds metric based on clusters</fullname>
+            <complexity>|L|</complexity>
+            <authors>Robinson and Foulds</authors>
+            <publication>Comparison of weighted labelled trees</publication>
+            <year>1979</year>
+            <full_description>The weighted RF metric adds the length of the edges to the RF metric. By identifying cluster with an edge, it sums the difference of weights of cluster edges present in the two trees and weights of diffrent cluster edges. (divided by 2). A cluster associated with a vertex v in a rooted tree T with leaves L is a subset of leaves that are descendants of v.</full_description>
+        </metric>
+        <metric>
+            <name>NodalSplittedWeighted</name>
+            <command_name>nsw</command_name>
+            <class>treecmp.metric.weighted.NodalL2EdgeWeightMetric</class>
+            <description>-Weighted Nodal Splitted metric</description>
+            <rooted>true</rooted>
+            <weighted>true</weighted>
+            <fullname>Weighted Nodal Splitted metric with L2 norm</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Cardona, Llabres, Rossello and Valiente</authors>
+            <publication>Nodal distances for rooted phylogenetic trees</publication>
+            <year>2010</year>
+            <full_description>The weighted Nodal Splitted metric is L2 norm of two splitted path lengths matrices with rows and columns indexed by taxa and where every entry is the distance from the least common ancestor of the pair of nodes.</full_description>
+        </metric>
+        <metric>
+            <name>GeoRooted</name>
+            <command_name>gdr</command_name>
+            <class>treecmp.metric.weighted.GeoRootedMetric</class>
+            <description>-Geodesic Rooted metric</description>
+            <rooted>true</rooted>
+            <weighted>true</weighted>
+            <fullname>Geodesic Rooted metric</fullname>
+            <complexity>A Fast Algorithm for Computing Geodesic Distances in Tree Space.</complexity>
+            <authors>Owen and Provan</authors>
+            <publication>|L|^4</publication>
+            <year>2009</year>
+            <full_description>Metric is based on concept of a continuous tree space consists of a set of Euclidean regions, called orthants, one for each tree topology. Orthants are joined together whenever one tree topology can be made into another by exchanging edges between the trees. Within an orthant, the coordinates of each point represent the edge lengths for a particular tree with the topology associated with that orthant. The geodesic between two trees is the unique shortest path connecting the two associated points in this space. Thus traversing the geodesic corresponds to continuously transforming one tree into the other.</full_description>
+        </metric>
+        <metric>
+            <name>CopheneticL2WeightedMetric</name>
+            <command_name>cow</command_name>
+            <class>treecmp.metric.weighted.CopheneticL2WeightMetric</class>
+            <description>-Weighted Cophenetic Metric with L2 norm</description>
+            <rooted>true</rooted>
+            <weighted>true</weighted>
+            <fullname>Weighted Cophenetic Metric with L2 norm</fullname>
+            <complexity>|L|^2</complexity>
+            <authors>Cardona, Mir, Rosselló, Rotger and Sánchez</authors>
+            <publication>Cophenetic metrics for phylogenetic trees, after Sokal and Rohlf</publication>
+            <year>2013</year>
+            <full_description>For every rooted phylogenetic tree T, let its cophenetic vector φ(T) consist of all pairs of cophenetic values (depth of lowest common ancestor of a pair of nodes) between pairs of taxa in T and all depths of taxa in T. Cophenetic Metric comparing cophenetic vectors φ(T) of two trees by means of L2 norm distance.</full_description>
+        </metric>
+    </defined_metrics>
+    <reporting>
+        <filed_separator>tab</filed_separator>
+        <main-section>yes</main-section>
+        <summary-section>yes</summary-section>
+    </reporting>
+</config>

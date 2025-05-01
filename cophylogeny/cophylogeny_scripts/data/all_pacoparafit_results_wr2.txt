@@ -1,0 +1,46 @@
+"otu"	"Species"	"labname"	"pacor2"	"issig"
+"1"	"OTU_169"	"Aureobasidium Genus"	"Aureobasidium"	0.372969561715029	TRUE
+"2"	"OTU_931"	"Parasola Genus"	"Parasola"	0.322543146158053	FALSE
+"3"	"OTU_826"	"Neurospora Genus"	"Neurospora"	0.218358702569114	FALSE
+"4"	"OTU_456"	"Xylaria Genus"	"Xylaria"	0.212644699530934	TRUE
+"5"	"OTU_329"	"Talaromyces Genus"	"Talaromyces"	0.172556280846091	TRUE
+"6"	"OTU_5023"	"Nigrospora Genus"	"Nigrospora"	0.171874856071095	TRUE
+"7"	"OTU_264"	"Parasola Genus"	"Parasola"	0.156440162068386	FALSE
+"8"	"OTU_2339"	"Pleosporales Order"	"Pleosporales_Order"	0.144935511302594	TRUE
+"9"	"OTU_86"	"Saturnispora_diversa"	"Saturnispora"	0.136982087436817	TRUE
+"10"	"OTU_855"	"Didymellaceae Family"	"Didymellaceae_Family"	0.090390842674575	FALSE
+"11"	"OTU_1337"	"Plectosphaerellaceae Family"	"Plectosphaerellaceae_Family"	0.08612149485003	FALSE
+"12"	"OTU_559"	"Nigrospora_saccharicola"	"Nigrospora"	0.078614130592108	TRUE
+"13"	"OTU_100"	"Kurtzmaniella_quercitrusa"	"Kurtzmaniella"	0.057381557016582	FALSE
+"14"	"OTU_3925"	"Nigrospora Genus"	"Nigrospora"	0.053704172579789	FALSE
+"15"	"OTU_384"	"Xylaria Genus"	"Xylaria"	0.048239837097231	TRUE
+"16"	"OTU_282"	"Malassezia_arunalokei"	"Malassezia"	0.0473757891983539	TRUE
+"17"	"OTU_506"	"Myxospora_musae"	"Myxospora"	0.042370302734285	FALSE
+"18"	"OTU_426"	"Ganoderma_eickeri"	"Ganoderma"	0.035904583429416	FALSE
+"19"	"OTU_88"	"Candida_albicans"	"Candida"	0.031826651837632	FALSE
+"20"	"OTU_237"	"Roussoella Genus"	"Roussoella"	0.026650898850119	FALSE
+"21"	"OTU_57"	"Pichia_kluyveri"	"Pichia"	0.024956326999964	FALSE
+"22"	"OTU_135"	"Nectriaceae Family"	"Nectriaceae_Family"	0.0241126414482991	FALSE
+"23"	"OTU_281"	"Chordomyces_antarcticus"	"Chordomyces"	0.022859244115462	FALSE
+"24"	"OTU_289"	"Coprinellus_disseminatus"	"Coprinellus"	0.020096408114524	FALSE
+"25"	"OTU_90"	"Trichoderma Genus"	"Trichoderma"	0.018531905766896	FALSE
+"26"	"OTU_196"	"Ascomycota Phylum"	"Ascomycota_Phylum"	0.01561482855554	FALSE
+"27"	"OTU_192"	"Saitozyma_podzolica"	"Saitozyma"	0.01353461966489	FALSE
+"28"	"OTU_253"	"Sordariomycetes Class"	"Sordariomycetes_Class"	0.010948134174477	FALSE
+"29"	"OTU_3"	"Geotrichum_silvicola"	"Geotrichum"	0.010441512125379	FALSE
+"30"	"OTU_96"	"Pleosporales Order"	"Pleosporales_Order"	0.00855390337220197	FALSE
+"31"	"OTU_111"	"Phlyctis_speirea"	"Phlyctis"	0.00723797485537703	FALSE
+"32"	"OTU_89"	"Nigrospora_hainanensis"	"Nigrospora"	0.00716862407423302	TRUE
+"33"	"OTU_35"	"Ascomycota Phylum"	"Ascomycota_Phylum"	0.00416065350942696	FALSE
+"34"	"OTU_81"	"Ascomycota Phylum"	"Ascomycota_Phylum"	0.00389301266798903	FALSE
+"35"	"OTU_53"	"Saccharomycetales Order"	"Saccharomycetales_Order"	0.00355221941567097	FALSE
+"36"	"OTU_25"	"Hanseniaspora Genus"	"Hanseniaspora"	0.00336050619998096	FALSE
+"37"	"OTU_551"	"Pichia_bovicola"	"Pichia"	0.00289549026428804	FALSE
+"38"	"OTU_46"	"Saccharomyces Genus"	"Saccharomyces"	0.002778249684663	FALSE
+"39"	"OTU_20"	"Trichosporon Genus"	"Trichosporon"	0.00172129430765	FALSE
+"40"	"OTU_12"	"Lasiodiplodia Genus"	"Lasiodiplodia"	0.00146788381513097	TRUE
+"41"	"OTU_1"	"Pichia_bovicola"	"Pichia"	NA	FALSE
+"42"	"OTU_10"	"Saccharomycetales Order"	"Saccharomycetales_Order"	NA	FALSE
+"43"	"OTU_129"	"Periconia_celtidis"	"Periconia"	NA	FALSE
+"44"	"OTU_13"	"Malassezia Genus"	"Malassezia"	NA	FALSE
+"45"	"OTU_6"	"Cladosporium Genus"	"Cladosporium"	NA	NA
