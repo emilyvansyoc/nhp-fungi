@@ -13,7 +13,7 @@ labs <- str_to_lower(tree$tip.label)
 labs <- str_replace_all(labs, "_", " ")
 
 # read in metadata
-meta <- read.table("all_primate/data/all_primate_metadata.txt", header = TRUE, sep = "\t")
+meta <- read.table("data/all_primate_metadata.txt", header = TRUE, sep = "\t")
 
 # get host species
 sp <- unique(meta$Species)
@@ -58,4 +58,4 @@ plot(tree2)
 tiplabels()
 
 # save
-write.tree(tree2, file = "all_primate/primate_tree/timetree/my_primate_species_matched.nwk")
+write.tree(tree2, file = "data/timetree/my_primate_species_matched.nwk")
