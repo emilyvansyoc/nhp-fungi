@@ -1,0 +1,2 @@
+No	RefTree	Tree	MatchingCluster	MatchingCluster_toYuleAvg	MatchingCluster_toUnifAvg	RFCluster(0.5)	RFCluster(0.5)_toYuleAvg	RFCluster(0.5)_toUnifAvg	NodalSplitted	NodalSplitted_toYuleAvg	NodalSplitted_toUnifAvg	Triples	Triples_toYuleAvg	Triples_toUnifAvg	MatchingPair	MatchingPair_toYuleAvg	MatchingPair_toUnifAvg	MAST	MAST_toYuleAvg	MAST_toUnifAvg	CopheneticL2Metric	CopheneticL2Metric_toYuleAvg	CopheneticL2Metric_toUnifAvg
+1	1	1	12.0000	0.7325	0.7051	5.0000	0.8749	0.8676	8.1240	0.5920	0.5618	30.0000	0.8108	0.7935	13.0000	0.8194	0.8164	3.0000	0.7702	0.7647	5.6569	0.4965	0.4792

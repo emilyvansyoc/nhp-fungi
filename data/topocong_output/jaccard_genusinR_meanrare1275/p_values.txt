@@ -1,0 +1,8 @@
+"no.comps"	"metric"	"obsscore"	"pval"	"meanstoch"	"minstoch"	"maxstoch"
+100000	"MatchingCluster_toUnifAvg"	0.7051	0.16877	"0.8568"	"0.2350"	"1.2340"
+100000	"RFCluster.0.5._toUnifAvg"	0.8676	0.28149	"0.9825"	"0.1735"	"1.0411"
+100000	"NodalSplitted_toUnifAvg"	0.5618	0.03108	"0.7620"	"0.3317"	"1.2544"
+100000	"Triples_toUnifAvg"	0.7935	0.15635	"0.9884"	"0.3174"	"1.2697"
+100000	"MatchingPair_toUnifAvg"	0.8164	0.10728	"1.0298"	"0.2512"	"1.2560"
+100000	"MAST_toUnifAvg"	0.7647	0.28748	"0.9552"	"0.2549"	"1.2745"
+100000	"CopheneticL2Metric_toUnifAvg"	0.4792	0.00465	"0.7296"	"0.3594"	"1.2791"

@@ -1,0 +1,22 @@
+"term"	"contrast"	"null.value"	"estimate"	"conf.low"	"conf.high"	"adj.p.value"
+"Label"	"Between gorilla_beringei and homo_sapiens-Between cercocebus_agilis and homo_sapiens"	0	0.00514488662944756	0.00170605369426552	0.00858371956462961	0.000210569820492168
+"Label"	"Between gorilla_gorilla and homo_sapiens-Between cercocebus_agilis and homo_sapiens"	0	0.000195604618031808	-0.00312762173979298	0.0035188309758566	0.999997705703423
+"Label"	"Between homo_sapiens and indri_indri-Between cercocebus_agilis and homo_sapiens"	0	0.00784155333993863	0.00398482516361833	0.0116982815162589	4.95478631457047e-08
+"Label"	"Between homo_sapiens and pan_troglodytes-Between cercocebus_agilis and homo_sapiens"	0	-0.00204910890757104	-0.00583422915064087	0.00173601133549879	0.684493093425811
+"Label"	"Between homo_sapiens and papio_cynocephalus-Between cercocebus_agilis and homo_sapiens"	0	0.0101000585089528	0.00695447783360253	0.013245639184303	4.44299541602078e-09
+"Label"	"Between homo_sapiens and procolobus-Between cercocebus_agilis and homo_sapiens"	0	0.0104841102621039	0.0071792305889704	0.0137889899352375	4.44300207735893e-09
+"Label"	"Between gorilla_gorilla and homo_sapiens-Between gorilla_beringei and homo_sapiens"	0	-0.00494928201141576	-0.00766006459013033	-0.00223849943270118	1.58336029298933e-06
+"Label"	"Between homo_sapiens and indri_indri-Between gorilla_beringei and homo_sapiens"	0	0.00269666671049107	-0.000646813660281868	0.00604014708126401	0.207656549371508
+"Label"	"Between homo_sapiens and pan_troglodytes-Between gorilla_beringei and homo_sapiens"	0	-0.0071939955370186	-0.0104546157262185	-0.0039333753478187	6.20356999103677e-09
+"Label"	"Between homo_sapiens and papio_cynocephalus-Between gorilla_beringei and homo_sapiens"	0	0.00495517187950523	0.00246535531018571	0.00744498844882474	1.01611021596781e-07
+"Label"	"Between homo_sapiens and procolobus-Between gorilla_beringei and homo_sapiens"	0	0.00533922363265638	0.00265096426689342	0.00802748299841933	1.08802277187792e-07
+"Label"	"Between homo_sapiens and indri_indri-Between gorilla_gorilla and homo_sapiens"	0	0.00764594872190683	0.00442149179724608	0.0108704056465676	4.50652504202509e-09
+"Label"	"Between homo_sapiens and pan_troglodytes-Between gorilla_gorilla and homo_sapiens"	0	-0.00224471352560285	-0.00538316943376321	0.000893742382557515	0.34697478757302
+"Label"	"Between homo_sapiens and papio_cynocephalus-Between gorilla_gorilla and homo_sapiens"	0	0.00990445389092098	0.00757691269512945	0.0122319950867125	4.44293379864291e-09
+"Label"	"Between homo_sapiens and procolobus-Between gorilla_gorilla and homo_sapiens"	0	0.0102885056440721	0.00774980521139778	0.0128272060767465	4.44293379864291e-09
+"Label"	"Between homo_sapiens and pan_troglodytes-Between homo_sapiens and indri_indri"	0	-0.00989066224750967	-0.013589368006035	-0.00619195648898438	4.44309466995918e-09
+"Label"	"Between homo_sapiens and papio_cynocephalus-Between homo_sapiens and indri_indri"	0	0.00225850516901416	-0.000782541824833219	0.00529955216286153	0.300703140353409
+"Label"	"Between homo_sapiens and procolobus-Between homo_sapiens and indri_indri"	0	0.00264255692216531	-0.000562988068556616	0.00584810191288723	0.185569628879258
+"Label"	"Between homo_sapiens and papio_cynocephalus-Between homo_sapiens and pan_troglodytes"	0	0.0121491674165238	0.00919946406749664	0.015098870765551	4.44293379864291e-09
+"Label"	"Between homo_sapiens and procolobus-Between homo_sapiens and pan_troglodytes"	0	0.012533219169675	0.0094141966118828	0.0156522417274672	4.44293379864291e-09
+"Label"	"Between homo_sapiens and procolobus-Between homo_sapiens and papio_cynocephalus"	0	0.000384051753151149	-0.00191721838454596	0.00268532189084826	0.998958862227921
