@@ -1,6 +1,8 @@
 # nhp-fungi
 Repository for scripts related to Van Syoc et al, under review
 
+#"An agglomeration of Frankenscripts in pursuit of scientific novelty..."
+
 ## ITS amplicon data processing (`amplicon_processing`)  
 
 The user can first install a conda environment with the necessary softwares to run this module using `setup_its_env.sh`. This module is designed to be fully reproducible and at least partially executable for a different project based on ITS bioinformatics for SRA accession numbers.  
