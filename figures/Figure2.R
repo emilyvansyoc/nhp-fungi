@@ -14,7 +14,7 @@ library(ggplot2) #### see github issue; for now, downgrading ggplot2
 
 # source("R/colors.R")
 # get updated colors
-source("all_primate/R/NHPColors.R")
+source("helpers/NHPColors.R")
 
 ## get the analysis script
 source("human_mycobiome/differential_relabundance.R")
@@ -37,7 +37,7 @@ hum <- psgndf %>%
   filter(pres == 1) %>%
   # add colors for text
   left_join(data.frame(ccol) %>% rownames_to_column(var = "ColName"), by = "ColName") %>%
-  mutate(plotname = paste0("<i style='color:", ccol, "'>", ColName, "</b>"))
+  mutate(plotname = paste0("<i style='color:", ccol, "'>", ColName, "</i>"))
 
 # show only certain intersections for clarity
 myspecs <- sort(unique(hum$plotname))
@@ -58,7 +58,7 @@ myints <- list(
 )
 
 # re-order the species
-myspec.ord <- c("<i style='color:#984EA3'>H. sapiens</b>")
+myspec.ord <- c("<i style='color:#984EA3'>H. sapiens</i>")
 
 ### BUILD PLOT ####
 upplot <-  hum %>%
@@ -78,12 +78,13 @@ upplot <-  hum %>%
   theme_combmatrix(
     combmatrix.panel.striped_background.color.one = "grey85",
     combmatrix.panel.striped_background.color.two = "grey95",
-    combmatrix.label.text = element_markdown(size = 16),
+    combmatrix.label.text = NULL,
     combmatrix.label.make_space = FALSE,
     combmatrix.label.height = unit(200, "pt"),
     combmatrix.panel.point.size = 4
   ) +
   theme(text = element_text(size = 14),
+        axis.text.y = element_markdown(),
         axis.title.y = element_text(size = 16, vjust = 2),
         plot.margin = margin(l=100, t= 40,  unit = "pt"))
 
